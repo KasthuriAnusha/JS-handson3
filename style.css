@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: red;
+}
+p{
+    color: rgb(227, 18, 154);
+}
+b{
+    color: rgb(112, 18, 227);
+}
+hr{
+    color: aqua;
+}
